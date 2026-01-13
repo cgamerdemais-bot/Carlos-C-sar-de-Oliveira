@@ -1,0 +1,5 @@
+{
+  "name": "Aventura do Nada",
+  "description": "An infinite procedural platformer where you collect red coins to unlock the door to the next level. Features high jumps, double jumps, and endless challenges.",
+  "requestFramePermissions": []
+}
